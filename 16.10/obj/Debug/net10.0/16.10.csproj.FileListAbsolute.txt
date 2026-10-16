@@ -1,0 +1,15 @@
+C:\Users\User\Documents\mechtanov\16.10\bin\Debug\net10.0\16.10.exe
+C:\Users\User\Documents\mechtanov\16.10\bin\Debug\net10.0\16.10.deps.json
+C:\Users\User\Documents\mechtanov\16.10\bin\Debug\net10.0\16.10.runtimeconfig.json
+C:\Users\User\Documents\mechtanov\16.10\bin\Debug\net10.0\16.10.dll
+C:\Users\User\Documents\mechtanov\16.10\bin\Debug\net10.0\16.10.pdb
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.AssemblyInfoInputs.cache
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.AssemblyInfo.cs
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.dll
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\refint\16.10.dll
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.pdb
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.genruntimeconfig.cache
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\ref\16.10.dll
+C:\Users\User\Documents\mechtanov\16.10\obj\Debug\net10.0\16.10.csproj.Up2Date
